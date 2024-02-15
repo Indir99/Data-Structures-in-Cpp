@@ -4,7 +4,7 @@ Data structures / Faculty of Electrical Engineering (University in Tuzla)
 
 # Specification
 
-The aim of this repository is to implement data structures in the c ++ programming language and apply them to some examples.
+The aim of this repository is to implement data structures in the c ++ programming language and apply them to some examples. The repository was created while attending the Data Structures course at the university. The goal of each homework assignment is the implementation of some of the standard c++ structures (such as std::list, std::vector, etc.) and the application of the structure to solve a practical problem.
 
 ## Homework-1
 
